@@ -289,3 +289,12 @@ span a {
 .Regels-Img {
     float: left;
 }
+/* Stage page css */
+.Stage-container {
+    margin-top: 80px;
+    justify-content: center;
+    display: flex;
+}
+.Stage-Text {
+    float: left;
+}
